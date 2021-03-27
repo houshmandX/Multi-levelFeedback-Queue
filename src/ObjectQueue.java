@@ -1,10 +1,9 @@
-//Houshmand Esmaeilpourarabi
-//ID: 010933959
+//Hayden Houshmand pour
 
 /**
  * ObjectQueue class
  * 
- * @author Houshmand Esmaeilpourarabi
+ * @author Hayden Houshmand pour
  *
  */
 public class ObjectQueue implements ObjectQueueInterface{
