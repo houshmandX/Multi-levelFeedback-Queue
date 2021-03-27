@@ -1,5 +1,5 @@
-//Houshmand Esmaeilpourarabi
-//ID: 010933959
+//Hayden Houshmand pour
+
 import java.io.*;
 
 /**
@@ -8,7 +8,7 @@ import java.io.*;
  * This program simulate an operating System's job scheduling policy
  * to determine which process will be assigned the CPU when it becomes available 
  * 
- * @author Houshmand Esmaeilpourarabi
+ * @author Hayden Houshmand pour
  *
  *Driver class
  *
