@@ -1,11 +1,9 @@
-//Houshmand Esmaeilpourarabi
-//ID:010933959
-
+//Hayden Houshmand pour
 
 /**
  * Job class 
  * 
- * @author Houshmand Esmaeilpourarabi
+ * @author Hayden Houshmand pour
  * 
  * Properties: pid, arrivalTime, cpuTimeRequired and cpuTimeRemaining
  *
